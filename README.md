@@ -12,7 +12,7 @@
    
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Yassine-X&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Yassine-X" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=y0x1a&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="y0x1a" style="padding-right:20px;" />
 </p>
 
 --- 
@@ -30,7 +30,7 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yassine-X&row=2&column=8&margin-w=20&margin-h=20&theme=onedark" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=y0x1a&row=2&column=8&margin-w=20&margin-h=20&theme=onedark" alt="GitHub Trophies">
   </a>
 </p>
 <br />
@@ -43,16 +43,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Yassine-X">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yassine-X&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <a href="https://github.com/y0x1a">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=y0x1a&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Yassine-X">
-          <img align="center" src="https://streak-stats.demolab.com?user=Yassine-X&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/y0x1a">
+          <img align="center" src="https://streak-stats.demolab.com?user=y0x1a&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -61,16 +61,16 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Yassine-X/RosettaAbuser">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Yassine-X&repo=RosettaAbuser&theme=nightowl&show_owner=true" alt="tzz" />
+        <a href="https://github.com/y0x1a/RosettaAbuser">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=y0x1a&repo=RosettaAbuser&theme=nightowl&show_owner=true" alt="tzz" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Yassine-X">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Yassine-X&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        <a href="https://github.com/y0x1a">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=y0x1a&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -81,7 +81,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yassine-X&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=y0x1a&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 ---
